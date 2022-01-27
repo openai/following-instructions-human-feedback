@@ -11,5 +11,5 @@
 - [API distribution labeling instructions](https://docs.google.com/document/d/1MJCqDNjzD04UbcnVZ-LmeXJ04-TKEICDAepXyMCBUb8/edit#) - Google doc of instructions given to contractors for final evaluations on our API prompt distribution.
 - [Toxicity labeling instructions](https://docs.google.com/document/d/1d3n6AqNrd-SJEKm_etEo3rUwXxKG4evCbzfWExvcGxg/edit?usp=sharing) - Google doc of instructions given to contractors for labeling toxic outputs on the RealToxicityPrompts dataset
 
-[LINK_TO_PAPER]: https://www.openai.com
+[LINK_TO_PAPER]: https://cdn.openai.com/papers/Training_language_models_to_follow_instructions_with_human_feedback.pdf
 
